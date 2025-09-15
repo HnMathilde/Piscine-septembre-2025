@@ -1,2 +1,2 @@
 #!/bin/bash/
-cat -e home/mahain/Documents/.gitignore
+cat -e .gitignore
